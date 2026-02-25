@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNICEF Job Vacancies (Filtered)</title>
+    <link>https://jobs.unicef.org/</link>
+    <description>Filtered UNICEF job vacancies: Professional (P-1 to P-5), Director (D-1/D-2), internships and fellowships.</description>
+    <language>en</language>
+    <pubDate>Wed, 25 Feb 2026 12:22:32 +0000</pubDate>
+    <atom:link href="https://cinfoposte.github.io/unicef-jobs/unicef_jobs.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programme Specialist, P-3, Education, Nairobi</title>
+      <link>https://jobs.unicef.org/en/job/001</link>
+      <description>UNICEF is looking for a Programme Specialist at the P-3 level.</description>
+      <guid isPermaLink="false">1980775814259702</guid>
+      <pubDate>Mon, 24 Feb 2025 10:00:00 +0000</pubDate>
+      <source url="https://careers.pageuppeople.com/671/cw/en/rss">UNICEF Careers RSS</source>
+    </item>
+    <item>
+      <title>Supply Officer, P-4, Copenhagen</title>
+      <link>https://jobs.unicef.org/en/job/003</link>
+      <description>Supply chain management role P4 level.</description>
+      <guid isPermaLink="false">7883546741506768</guid>
+      <pubDate>Sat, 22 Feb 2025 08:00:00 +0000</pubDate>
+      <source url="https://careers.pageuppeople.com/671/cw/en/rss">UNICEF Careers RSS</source>
+    </item>
+    <item>
+      <title>Internship – Data Analytics, New York</title>
+      <link>https://jobs.unicef.org/en/job/006</link>
+      <description>UNICEF internship opportunity in data analytics.</description>
+      <guid isPermaLink="false">2725120548590331</guid>
+      <pubDate>Wed, 19 Feb 2025 05:00:00 +0000</pubDate>
+      <source url="https://careers.pageuppeople.com/671/cw/en/rss">UNICEF Careers RSS</source>
+    </item>
+    <item>
+      <title>Fellowship Programme, Research Division</title>
+      <link>https://jobs.unicef.org/en/job/007</link>
+      <description>Research fellowship opportunity.</description>
+      <guid isPermaLink="false">6244512977283669</guid>
+      <pubDate>Tue, 18 Feb 2025 04:00:00 +0000</pubDate>
+      <source url="https://careers.pageuppeople.com/671/cw/en/rss">UNICEF Careers RSS</source>
+    </item>
+    <item>
+      <title>Director, D-1, Programme Division</title>
+      <link>https://jobs.unicef.org/en/job/009</link>
+      <description>Senior leadership role at D1 level.</description>
+      <guid isPermaLink="false">2830973079658516</guid>
+      <pubDate>Sun, 16 Feb 2025 02:00:00 +0000</pubDate>
+      <source url="https://careers.pageuppeople.com/671/cw/en/rss">UNICEF Careers RSS</source>
+    </item>
+    <item>
+      <title>Health Specialist, P-5, Emergency</title>
+      <link>https://jobs.unicef.org/en/job/012</link>
+      <description>Senior health specialist in emergency response.</description>
+      <guid isPermaLink="false">1921651125569488</guid>
+      <pubDate>Thu, 13 Feb 2025 23:00:00 +0000</pubDate>
+      <source url="https://careers.pageuppeople.com/671/cw/en/rss">UNICEF Careers RSS</source>
+    </item>
+    <item>
+      <title>Education Officer, P-2, Regional Office</title>
+      <link>https://jobs.unicef.org/en/job/014</link>
+      <description>Education programme support P2.</description>
+      <guid isPermaLink="false">8291506421960313</guid>
+      <pubDate>Tue, 11 Feb 2025 21:00:00 +0000</pubDate>
+      <source url="https://careers.pageuppeople.com/671/cw/en/rss">UNICEF Careers RSS</source>
+    </item>
+  </channel>
+</rss>
