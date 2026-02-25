@@ -1,0 +1,36 @@
+name: Update UNICEF Filtered Feed
+
+on:
+  schedule:
+    - cron: "30 6 * * *"   # daily at 06:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate filtered feed
+        run: python unicef_jobs.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add unicef_jobs.xml
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Update UNICEF filtered feed"
+          git push
